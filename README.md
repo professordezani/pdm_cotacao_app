@@ -1,3 +1,3 @@
 # cotacao_app
 
-A new Flutter project.
+https://economia.awesomeapi.com.br/json/last/USD-BRL
